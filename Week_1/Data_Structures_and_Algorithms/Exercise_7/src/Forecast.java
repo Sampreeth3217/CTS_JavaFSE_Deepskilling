@@ -1,0 +1,25 @@
+public class Forecast {
+
+    // Recursive function to compute future value
+    public static double futureValueRecursive(double principal, double rate, int years) {
+        if (years == 0) return principal;
+        return futureValueRecursive(principal, rate, years - 1) * (1 + rate);
+    }
+
+    // Optimized using memoization
+    public static double futureValueMemo(double principal, double rate, int years, double[] memo) {
+        if (years == 0) return principal;
+        if (memo[years] != 0) return memo[years];
+        memo[years] = futureValueMemo(principal, rate, years - 1, memo) * (1 + rate);
+        return memo[years];
+    }
+
+    // Iterative version (most efficient)
+    public static double futureValueIterative(double principal, double rate, int years) {
+        double result = principal;
+        for (int i = 1; i <= years; i++) {
+            result *= (1 + rate);
+        }
+        return result;
+    }
+}
