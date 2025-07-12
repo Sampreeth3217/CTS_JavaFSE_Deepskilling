@@ -1,3 +1,9 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "Week_3/Exercise_1/src/main/java/com/LibraryManagement",
+        "Week_1/Data_Structures_and_Algorithms/Exercise_5/src",
+        "Week_3/Exercise_1/src/main/java/com/example/library"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
