@@ -76,8 +76,8 @@ PS D:\GitDemo>
 
 ### Screenshot of the Remote Git Repository 
 
-![output](https://github.com/SudipSarkar1193/Digital-Nurture-4.0-JavaFSE/blob/main/Week8_Git/1.%20Git-HOL/Screenshot/Screenshot%202025-08-07%20232906.png?raw=true)
+![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/master/Week_8/1.%20Git-HOL/Screenshots/cmd.png)
 
 ### Screenshot of the Terminal
 
-![output](https://github.com/SudipSarkar1193/Digital-Nurture-4.0-JavaFSE/blob/main/Week8_Git/1.%20Git-HOL/Screenshot/Screenshot%202025-08-07%20233041.png?raw=true)
+![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/master/Week_8/1.%20Git-HOL/Screenshots/Repo.png)
