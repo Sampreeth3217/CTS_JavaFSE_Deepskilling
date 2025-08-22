@@ -13,10 +13,11 @@ The main objective was to learn how to tell Git to ignore specific files and fol
 2.  **Created the `.gitignore` file**: I created a new file named `.gitignore` in the root of my project.
 
 3.  **Added Ignore Rules**: I edited the `.gitignore` file and added the following rules:
+
     ```
     # Ignore all .log files
     *.log
-    
+
     ```
 
 4.  **Verified the Status**: I ran `git status` and confirmed that Git was no longer showing the `app.log` file as "untracked". It worked!
@@ -25,7 +26,7 @@ The main objective was to learn how to tell Git to ignore specific files and fol
 
 ---
 
-### Commands 
+### Commands
 
 ```bash
 
@@ -99,6 +100,6 @@ D:\GitDemo2>
 
 This was a really useful exercise. Now I understand how to prevent temporary files, build outputs, and other unnecessary stuff from being accidentally committed to my projects.
 
-### .gitignore 
+### .gitignore
 
-![output](https://github.com/SudipSarkar1193/Digital-Nurture-4.0-JavaFSE/blob/main/Week8_Git/2.%20Git-HOL/Screenshot/Screenshot%202025-08-07%20234714.png?raw=true)
+![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/fff86e1683239491db81c4a68a056edfcba9af58/Week_8/2.Git-HOL/Screenshot%202025-08-07%20234714.png)
