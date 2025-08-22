@@ -16,7 +16,7 @@ I followed the lab instructions to set up my Git environment and practice the fu
 
 - **Pushed to Remote Repository:** Used git push to upload the project from my computer to this remote repository on GitLab/GitHub.
 
-### Commands 
+### Commands
 
 ```bash
 
@@ -74,10 +74,10 @@ PS D:\GitDemo>
 
 ```
 
-### Screenshot of the Remote Git Repository 
+### Screenshot of the Remote Git Repository
 
-![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/master/Week_8/1.%20Git-HOL/Screenshots/cmd.png)
+![output](hhttps://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/904be1f205704cee0c622c23391fb7729de004f1/Week_8/1.Git-HOL/Screenshots/cmd.png)
 
 ### Screenshot of the Terminal
 
-![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/master/Week_8/1.%20Git-HOL/Screenshots/Repo.png)
+![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/904be1f205704cee0c622c23391fb7729de004f1/Week_8/1.Git-HOL/Screenshots/Repo.png)
