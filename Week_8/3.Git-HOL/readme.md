@@ -1,10 +1,12 @@
 # Git Hands-On Lab 3: Branching and Merging
+
 This assignment was all about learning the branching and merging workflow, which is one of the most powerful features of Git.
 
 ## Assignment Goal
+
 The objective was to create a separate branch to work on a new "feature," and then merge that feature back into the main master branch once it was complete.
 
-### Terminal 
+### Terminal
 
 ```bash
 PS E:\> cd gitDemo3
@@ -50,6 +52,6 @@ nothing to commit, working tree clean
 PS E:\gitDemo3>
 ```
 
-### Screenshot 
+### Screenshot
 
-![output](https://github.com/SudipSarkar1193/Digital-Nurture-4.0-JavaFSE/blob/main/Week8_Git/3.%20Git-HOL/Screenshot/Screenshot%202025-08-08%20003047.png?raw=true)
+![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/92a104c63bcf6aee66b24732a142db16dca8e203/Week_8/3.Git-HOL/image.png)
