@@ -76,7 +76,7 @@ PS D:\GitDemo>
 
 ### Screenshot of the Remote Git Repository
 
-![output](hhttps://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/904be1f205704cee0c622c23391fb7729de004f1/Week_8/1.Git-HOL/Screenshots/cmd.png)
+![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/904be1f205704cee0c622c23391fb7729de004f1/Week_8/1.Git-HOL/Screenshots/cmd.png)
 
 ### Screenshot of the Terminal
 
