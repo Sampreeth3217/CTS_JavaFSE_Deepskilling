@@ -4,11 +4,11 @@ This repository contains the work I completed for the Git hands-on lab focused o
 
 ## Objective
 
-The main goal of this hands-on lab was to learn how to handle and resolve a merge conflict in Git. 
+The main goal of this hands-on lab was to learn how to handle and resolve a merge conflict in Git.
 
 This situation occurs when one user updates the main branch (master) in a way that conflicts with modifications made in a feature branch[cite: 4].
 
-## Commands 
+## Commands
 
 ```bash
 PS E:\gitDemo4> git init
@@ -56,6 +56,6 @@ PS E:\gitDemo4> git log --oneline --graph --decorate
 PS E:\gitDemo4>
 ```
 
-## Screenshot of the Terminal 
+## Screenshot of the Terminal
 
-![output](https://github.com/SudipSarkar1193/Digital-Nurture-4.0-JavaFSE/blob/main/Week8_Git/4.%20Git-HOL/Screenshot/Terminal_Screenshot.png?raw=true)
+![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/9856f6c10608075ac8edc0cbd2234c81473967ad/Week_8/4.Git-HOL/image.png)
