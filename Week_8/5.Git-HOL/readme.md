@@ -34,12 +34,11 @@ git push origin master
 
 ```
 
-## Screenshot 
+## Screenshot
 
-![output](https://github.com/SudipSarkar1193/Digital-Nurture-4.0-JavaFSE/blob/main/Week8_Git/5.%20Git-HOL/Screenshot/Screenshot%202025-08-08%20224713.png?raw=true)
-
+![output](https://github.com/Sampreeth3217/CTS_JavaFSE_Deepskilling/blob/fc0296a99afc6b3fee11641c8b382bfba04ae924/Week_8/5.Git-HOL/image.png)
 
 ---
 
-This was the last mandatory hands-on. 
+This was the last mandatory hands-on.
 I am truly grateful to Cognizant for the `Digital Nurture Program`.
